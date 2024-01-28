@@ -1,2 +1,2 @@
-# calvin-and-hobbes
-A class assignment circa 2001
+# Calvin and Hobbes
+A class assignment, circa 2001
